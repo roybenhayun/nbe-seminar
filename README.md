@@ -1,5 +1,6 @@
-# nbe-seminar
-neuromorphic robotics for drones
+# Neuromorphic Biological Engineereing seminar
+Neuromorphic Robotics for drones
+
 ![image](https://github.com/roybenhayun/nbe-seminar/assets/11072478/b4beeaaa-3e64-4055-b41e-36e20ac78ecc)
 
 Practical work part of a seminar in neuromorphic robotics for drones. Implementation of a neuromorphic PID Controller using Nengo.
