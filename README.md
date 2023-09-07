@@ -1,7 +1,12 @@
 # nbe-seminar
 neuromorphic robotics for drones
+![image](https://github.com/roybenhayun/nbe-seminar/assets/11072478/b4beeaaa-3e64-4055-b41e-36e20ac78ecc)
 
 Practical work part of a seminar in neuromorphic robotics for drones. Implementation of a neuromorphic PID Controller using Nengo.
+
+## paper and presentation
+paper: https://github.com/roybenhayun/nbe-seminar/blob/main/Neuromorphic%20Robotics%20for%20Drones%20-%20Roy%20Ben%20Hayun.pdf
+slides: https://github.com/roybenhayun/nbe-seminar/blob/main/Neuromorphic%20Robotics%20for%20Drones%20-%20seminar%20presentation.pptx
 
 ## prerequisites
 Python 3.x
