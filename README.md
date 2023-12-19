@@ -24,3 +24,18 @@ main_cpu_pid.py for the CPU-PID
 
 main_snn_pid.py for the SNN-PID
 
+# Video clips
+https://www.youtube.com/watch?v=PLMgMqMrQ98 
+
+https://www.youtube.com/watch?v=EcZ_Nq6Z89U
+
+https://www.youtube.com/watch?v=LGkjlG-OjaU
+
+
+
+
+
+
+
+
+
