@@ -7,6 +7,8 @@ Practical work part of a seminar in neuromorphic robotics for drones. Implementa
 
 ## paper and presentation
 paper: https://github.com/roybenhayun/nbe-seminar/blob/main/Neuromorphic%20Robotics%20for%20Drones%20-%20Roy%20Ben%20Hayun.pdf
+
+
 slides: https://github.com/roybenhayun/nbe-seminar/blob/main/Neuromorphic%20Robotics%20for%20Drones%20-%20seminar%20presentation.pptx
 
 ## prerequisites
